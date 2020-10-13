@@ -26,6 +26,7 @@
     <li>⚡️ Kibana dashboard for searching and filtering data</li>
     <li>💎 Simple, Configurable and Powerful</li>
     <li>🔥 Built entirely using open-source tools</li>
+    <li>Test it to know it</li>
 </ul>
 <h2>Onboarding</h2>
 Refer to the detailed https://github.com/intuit/fawkes/wiki
